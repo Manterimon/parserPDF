@@ -34,7 +34,7 @@ class ParserPDF:
     #     print(self.output)
 
 
-API_TOKEN = '7133025823:AAGrZdsB1FKhh4JIV8IwAwtnKPV03MBqauk'
+API_TOKEN = '-'
 bot = telebot.TeleBot(API_TOKEN)
 
 
